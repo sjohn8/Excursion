@@ -30,7 +30,7 @@ p {
     font-size: 21px;
 }
 
-p.copyright {
+p#copyright {
     text-align: right;
 }
 
